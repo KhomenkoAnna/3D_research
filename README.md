@@ -146,7 +146,13 @@
   - **T-score** — значение T-score.
 
 ### Папка mental_disorders_group
-Данная папка содержит результаты стилостатистического анализа для группы лиц с психическими расстройствами. Он содержит в себе несколько подпапок, в которых каждый стилостатистический показатель рассчитан в разбивке по расстройству, а также 4 таблицы ([md_collocations.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_collocations.xlsx), [md_keywords.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_keywords.xlsx), [md_ngrams.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_ngrams.xlsx), [md_statistics.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_statistics.xlsx)), в которых собрана информация .
+Данная папка содержит результаты стилостатистического анализа для группы лиц с психическими расстройствами. Он содержит в себе несколько подпапок, в которых каждый стилостатистический показатель рассчитан в разбивке по расстройству, а также 4 таблицы (md_collocations.xlsx, md_keywords.xlsx, md_ngrams.xlsx, md_statistics.xlsx), в которых собрана информация по коллокациям, ключевым словам, n-граммам и статистике без разделения по расстройству.
+
+Таблицы:
+- [md_collocations.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_collocations.xlsx)
+- [md_keywords.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_keywords.xlsx)
+- [md_ngrams.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_ngrams.xlsx)
+- [md_statistics.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_statistics.xlsx)
 
 # # Не доделано!
 Таблица [control_statistics.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_statistics.xlsx) содержит 6 листов:
