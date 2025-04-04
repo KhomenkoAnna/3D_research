@@ -93,6 +93,7 @@
 
 ### Папка control_group
 Данная папка содержит результаты стилостатистического анализа для контрольной группы.
+
 Таблица [control_statistics.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_group/control_statistics.xlsx) содержит 6 листов:
 1. **average_sentence_lenth** — результаты подсчета средней длины предложения (в словах);
 2. **average_word_lenth** — результаты подсчета средней длины слова (в буквах);
