@@ -93,7 +93,7 @@
 
 ### Папка control_group
 Данная папка содержит результаты стилостатистического анализа для контрольной группы.
-Таблица [control_statistics.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_statistics.xlsx) содержит 6 листов:
+Таблица [control_statistics.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_group/control_statistics.xlsx) содержит 6 листов:
 1. **average_sentence_lenth** — результаты подсчета средней длины предложения (в словах);
 2. **average_word_lenth** — результаты подсчета средней длины слова (в буквах);
 3. **Flash-Kincaid_readability** — результаты подсчета индекса удобочитаемости Флеша-Кинкейда ([Flesch–Kincaid readability tests](https://ling.hse.ru/news/490474121.html));
@@ -114,7 +114,7 @@
 
 В конце каждого листа также расчитано среднее значение метрики.
 
-Таблица [control_keywords.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_keywords.xlsx) содержит 5 листов:
+Таблица [control_keywords.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_group/control_keywords.xlsx) содержит 5 листов:
 1. **LL** — ключевые слова, отобранные по метрике Log-Likelihood ;
 2. **T-score** — ключевые слова, отобранные по метрике T-score;
 3. **MI** — ключевые слова, отобранные по метрике Mutual Information (MI);
@@ -125,7 +125,7 @@
   - **Word** — ключевые слова;
   - столбец с результатами по метрике, название которой совпадает с названием листа.
 
-Таблица [control_ngrams.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_ngrams.xlsx) содержит 4 листа:
+Таблица [control_ngrams.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_group/control_ngrams.xlsx) содержит 4 листа:
 1. **Bigrams** — нелемматизированные биграммы;
 2. **Trigrams** — нелемматизированные триграммы;
 3. **Lemmatized_Bigrams** — лемматизированные биграммы;
@@ -135,7 +135,7 @@
   - **Ngram** — n-граммы;
   - **Frequency** — частота встречаемости n-грамм.
 
-Таблица [control_collocations.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_collocations.xlsx) содержит 2 листа:
+Таблица [control_collocations.xlsx](https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_group/control_collocations.xlsx) содержит 2 листа:
 1. **not_lem** — нелемматизированные коллокации для топ-20 ключевых слов по метрике T-score;
 2. **lem** — лемматизированные коллокации для топ-20 ключевых слов по метрике T-score.
 
