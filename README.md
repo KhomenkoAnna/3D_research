@@ -114,7 +114,7 @@
 ### Папка mental_disorders_group
 Данная папка содержит результаты стилостатистического анализа для группы лиц с психическими расстройствами. Он содержит в себе несколько подпапок, в которых каждый стилостатистический показатель рассчитан в разбивке по расстройству, а также 4 таблицы ([md_collocations.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_collocations.xlsx), [md_keywords.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_keywords.xlsx), [md_ngrams.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_ngrams.xlsx), [md_statistics.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_statistics.xlsx)).
 
-
+# # Не доделано!
 Таблица [control_statistics.xlsx] (https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_statistics.xlsx) содержит 6 листов:
 1. **average_sentence_lenth** — результаты подсчета средней длины предложения (в словах);
 2. **average_word_lenth** — результаты подсчета средней длины слова (в буквах);
