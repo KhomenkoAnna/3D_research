@@ -150,35 +150,31 @@
 
 #### Описание таблиц:
 - Таблица [md_collocations.xlsx](https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_collocations.xlsx) содержит 2 листа:
-        1. **not_lem** — нелемматизированные коллокации для топ-20 ключевых слов по метрике T-score;
-        2. **lem** — лемматизированные коллокации для топ-20 ключевых слов по метрике T-score.
-        
-        Каждый лист содержит следующие столбцы:
-          - **Word** — ключевые слова;
-          - **Collocation** — коллокации;
-          - **T-score** — значение T-score.
+    - **not_lem** — нелемматизированные коллокации для топ-20 ключевых слов по метрике T-score;
+    - **lem** — лемматизированные коллокации для топ-20 ключевых слов по метрике T-score.
+    Каждый лист содержит следующие столбцы:
+      - **Word** — ключевые слова;
+      - **Collocation** — коллокации;
+      - **T-score** — значение T-score.
 
 - Таблица [md_keywords.xlsx](https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_keywords.xlsx) содержит 5 листов:
-
-  1. **LL** — ключевые слова, отобранные по метрике Log-Likelihood ;
-  2. **T-score** — ключевые слова, отобранные по метрике T-score;
-  3. **MI** — ключевые слова, отобранные по метрике Mutual Information (MI);
-  4. **Dice** — ключевые слова, отобранные по метрике Dice;
-  5. **Frequency** — ключевые слова, отобранные по метрике Frequency Ratio.
+    -  **LL** — ключевые слова, отобранные по метрике Log-Likelihood ;
+    -  **T-score** — ключевые слова, отобранные по метрике T-score;
+    -  **MI** — ключевые слова, отобранные по метрике Mutual Information (MI);
+    -  **Dice** — ключевые слова, отобранные по метрике Dice;
+    -  **Frequency** — ключевые слова, отобранные по метрике Frequency Ratio.
 
 - Таблица [md_ngrams.xlsx](https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_ngrams.xlsx) содержит 4 листа:
-
-  1. **Bigrams** — нелемматизированные биграммы;
-  2. **Trigrams** — нелемматизированные триграммы;
-  3. **Lemmatized_Bigrams** — лемматизированные биграммы;
-  4. **Lemmatized_Trigrams** — лемматизированные триграммы.
-        
+    - **Bigrams** — нелемматизированные биграммы;
+    - **Trigrams** — нелемматизированные триграммы;
+    - **Lemmatized_Bigrams** — лемматизированные биграммы;
+    - **Lemmatized_Trigrams** — лемматизированные триграммы.  
     Каждый лист содержит следующие столбцы:
       - **Ngram** — n-граммы;
       - **Frequency** — частота встречаемости n-грамм.
 
 - Таблица [md_statistics.xlsx](https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_statistics.xlsx) содержит 6 листов:
-        1. **average_sentence_lenth** — результаты подсчета средней длины предложения (в словах);
+    - **average_sentence_lenth** — результаты подсчета средней длины предложения (в словах);
         2. **average_word_lenth** — результаты подсчета средней длины слова (в буквах);
         3. **Flash-Kincaid_readability** — результаты подсчета индекса удобочитаемости Флеша-Кинкейда ([Flesch–Kincaid readability tests](https://ling.hse.ru/news/490474121.html));
         4. **Gunning_Fog_Index** — результаты подсчета идекса туманности Ганнинга ([Gunning fog index](https://ling.hse.ru/news/490474121.html));
