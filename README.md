@@ -9,6 +9,8 @@
 2. [Метрики кластеризации](#метрики-кластеризации)
 3. [Пороговые значения метрик](#пороговые-значения-метрик)
 4. [Стилостатистика](#стилостатистика)
+    + [Контрольная группа](#папка-control_group)
+    + [Группа лиц с психическими расстройствами](#папка-mental_disorders_group)
 
 ## Демографические данные
 Таблица [demographic_data_mental_disorders_diagnostics.xlsx](https://github.com/KhomenkoAnna/3D_research/blob/main/demographic_data_mental_disorders_diagnostics.xlsx) содержит демографические показатели респондентов, участовавших в исследовании.
@@ -112,7 +114,7 @@
 
 В конце каждого листа также расчитано среднее значение метрики.
 ### Папка mental_disorders_group
-Данная папка содержит результаты стилостатистического анализа для группы лиц с психическими расстройствами. Он содержит в себе несколько подпапок, в которых каждый стилостатистический показатель рассчитан в разбивке по расстройству, а также 4 таблицы ([md_collocations.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_collocations.xlsx), [md_keywords.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_keywords.xlsx), [md_ngrams.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_ngrams.xlsx), [md_statistics.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_statistics.xlsx)).
+Данная папка содержит результаты стилостатистического анализа для группы лиц с психическими расстройствами. Он содержит в себе несколько подпапок, в которых каждый стилостатистический показатель рассчитан в разбивке по расстройству, а также 4 таблицы ([md_collocations.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_collocations.xlsx), [md_keywords.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_keywords.xlsx), [md_ngrams.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_ngrams.xlsx), [md_statistics.xlsx](#https://github.com/KhomenkoAnna/3D_research/blob/main/stylostatistics/mental_disorders_group/md_statistics.xlsx)), в которых собрана информация .
 
 # # Не доделано!
 Таблица [control_statistics.xlsx] (https://github.com/KhomenkoAnna/3D_research/tree/main/stylostatistics/control_statistics.xlsx) содержит 6 листов:
